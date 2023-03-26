@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PianoPlayingMotionGenerator", "PianoPlayingMotionGenerator\PianoPlayingMotionGenerator.csproj", "{8232838B-7A5F-4E64-B5E1-9865DFFACFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllTest", "DllTest\DllTest.csproj", "{B85E605C-72E3-417C-A2EB-B2797462DA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8232838B-7A5F-4E64-B5E1-9865DFFACFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8232838B-7A5F-4E64-B5E1-9865DFFACFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8232838B-7A5F-4E64-B5E1-9865DFFACFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8232838B-7A5F-4E64-B5E1-9865DFFACFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B85E605C-72E3-417C-A2EB-B2797462DA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85E605C-72E3-417C-A2EB-B2797462DA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85E605C-72E3-417C-A2EB-B2797462DA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85E605C-72E3-417C-A2EB-B2797462DA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E6565B8-E167-4A2D-8587-BF3A6433639B}
+	EndGlobalSection
+EndGlobal
