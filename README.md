@@ -1,8 +1,8 @@
 # MMM PMG Plugin
 
 [![License](https://img.shields.io/github/license/kosaka-bun/mmm-pmg-plugin?label=License&color=blue&logo=GitHub)](./LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/kosaka-bun/mmm-pmg-plugin?label=Stars&logo=GitHub)
-![GitHub Forks](https://img.shields.io/github/forks/kosaka-bun/mmm-pmg-plugin?label=Forks&logo=GitHub)
+![GitHub Stars](https://img.shields.io/github/stars/kosaka-bun/mmm-pmg-plugin?label=Stars&logo=GitHub&style=flat)
+![GitHub Forks](https://img.shields.io/github/forks/kosaka-bun/mmm-pmg-plugin?label=Forks&logo=GitHub&style=flat)
 
 ## 简介
 本项目全称为**M**iku**M**iku**M**oving **P**iano **M**otion **G**enerator Plugin，是一款基于MikuMikuMoving平台开发的，用于为那些能在MikuMikuMoving中加载的人物模型，生成钢琴演奏动作的插件。
